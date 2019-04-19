@@ -18,7 +18,7 @@ Current build status of master branch (nightly build of Arduino IDE): [![Build S
 
 Current build status of development branch (nightly build of Arduino IDE): [![Build Status](https://ci.mysensors.org/job/MySensors-nightly-IDE/job/MySensors/job/development/badge/icon)](https://ci.mysensors.org/job/MySensors-nightly-IDE/job/MySensors/job/development/)
 
-##Raspberry+MQTT:
+Raspberry+MQTT:
 
 sudo ./configure --my-gateway=mqtt --my-controller-ip-address=127.0.0.1 
 --my-mqtt-publish-topic-prefix=mysensors-out 
